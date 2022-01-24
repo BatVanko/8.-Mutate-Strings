@@ -10,12 +10,5 @@ for i in range(len(first_text)):
 
 
 
-    # first_part = second_text[:i]
-    # second_part = first_text[i:]
-    # current_text = first_part + second_part
-    # if not first_text[i] == second_text[i]:
-    #     print(current_text)
-
-
-
+    
 
